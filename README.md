@@ -4,6 +4,11 @@ This is aplication for learn english children through loteria.
 # Developed by 
 David Morales *david_ivan2402@ciencias.unam.mx*
 
+# Demo
+
+![Screen1](https://github.com/davcodee/Loterama/blob/master/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png)
+![Screen2](https://github.com/davcodee/Loterama/blob/master/Screen3.png)
+ 
 # License
 Copyright 2017 David Iván Morales Campos 
 
